@@ -11,4 +11,4 @@ Display randomfacts and other some commands
 /invite - Display invite link
 ```
 
-**Invit to your discord Server : https://discordapp.com/oauth2/authorize?client_id=234639520337887232&scope=bot&permissions=2146958463 **
+**Invit to your discord Server :** https://discordapp.com/oauth2/authorize?client_id=234639520337887232&scope=bot&permissions=2146958463
