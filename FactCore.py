@@ -126,8 +126,8 @@ def on_message(message):
                 "In 1862, Abraham Lincoln signed the Emancipation Proclamation, freeing the slaves. Like everything he did, Lincoln freed the slaves while sleepwalking, and later had no memory of the event.",
                 "The plural of surgeon general is surgeons general. The past tense of surgeons general is surgeonsed general",
                 "Contrary to popular belief, the Eskimo does not have one hundred different words for snow. They do, however, have two hundred and thirty-four words for fudge.",
-                "Halley's Comet can be viewed orbiting Earth every seventy-six years. For the other seventy-five, it retreats to the heart of the sun, where it hibernates undisturbed.The comet orbits the sun rather the Earth. Obviously, if it retreats in the sun, it will explode and we will no longer see it.",
-                "The first commercial airline flight took to the air in 1914. Everyone involved screamed the entire way.There were probably people who screamed, but most likely not all the way.",
+                "Halley's Comet can be viewed orbiting Earth every seventy-six years. For the other seventy-five, it retreats to the heart of the sun, where it hibernates undisturbed.",
+                "The first commercial airline flight took to the air in 1914. Everyone involved screamed the entire way.",
                 "Edmund Hillary, the first person to climb Mount Everest, did so accidentally while chasing a bird.",
                 "We will both die because of your negligence.",
                 "This is a bad plan. You will fail.",
@@ -137,7 +137,13 @@ def on_message(message):
                 "You are going to die in this room.",
                 "The Fact Sphere is a good person, whose insights are relevant.",
                 "The Fact Sphere is a good sphere, with many friends.",
-                "Dreams are the subconscious mind's way of reminding people to go to school naked and have their teeth fall out."
+                "Dreams are the subconscious mind's way of reminding people to go to school naked and have their teeth fall out.",
+                "The occupation of court jester was invented accidentally, when a vassal's epilepsy was mistaken for capering.",
+                "Before the Wright Brothers invented the airplane, anyone wanting to fly anywhere was required to eat 200 pounds of helium.",
+                "Before the invention of scrambled eggs in 1912, the typical breakfast was either whole eggs still in the shell or scrambled rocks.",
+                "During the Great Depression, the Tennessee Valley Authority outlawed pet rabbits, forcing many to hot glue-gun long ears onto their pet mice.",
+                "This situation is hopeless."",
+                "Diamonds are made when coal is put under intense pressure. Diamonds put under intense pressure become foam pellets, commonly used today as packing material."
                 ])
         yield from client.send_message(message.channel,fact)
     if client.user in message.mentions and message.author != client.user:
