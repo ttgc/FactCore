@@ -167,7 +167,7 @@ def on_server_remove(server):
 
 @asyncio.coroutine
 def main_task():
-    yield from client.login("MjM0NjM5NTIwMzM3ODg3MjMy.C-Cj6A.2twfX3KzQKtmcIX5KMCvIfMjBg4")
+    yield from client.login("")
     yield from client.connect()
     yield from client.wait_until_ready()
 
