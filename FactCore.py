@@ -1,6 +1,6 @@
 #!usr/bin/env python3.4
 #-*-coding:utf-8-*-
-#Fact Core For Citranium
+#Fact Core For Citranium by ttgc and Indianajaune
 
 import discord
 import asyncio
@@ -86,7 +86,7 @@ def on_message(message):
     if message.content.startswith(prefix+'invite'):
         url = discord.utils.oauth_url(str(client.user.id),discord.Permissions().all())
         embd = discord.Embed(title="FactCore",description="Invite FactCore to your server !",colour=discord.Color(randint(0,int('ffffff',16))),url=url)
-        embd.set_footer(text="FactCore developed by Ttgc",icon_url=client.user.avatar_url)
+        embd.set_footer(text="FactCore developed by Aperture Science",icon_url=client.user.avatar_url)
         embd.set_image(url=client.user.avatar_url)
         embd.set_thumbnail(url="http://cdn.themis-media.com/media/global/images/library/deriv/1298/1298055.jpg")
         embd.set_author(name="Aperture Science",icon_url="http://eiden.yolasite.com/resources/logown6.png",url=url)
