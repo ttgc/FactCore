@@ -1,0 +1,213 @@
+2017-04-25 11:57:33,764:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 11:57:33,791:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 11:57:33,797:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 11:57:33,805:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 11:57:33,811:INFO:discord.client: logging in using static token
+2017-04-25 11:57:35,416:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 11:57:35,424:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 12:02:19,774:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 12:02:19,780:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 12:02:19,784:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 12:02:19,788:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 12:02:19,794:INFO:discord.client: logging in using static token
+2017-04-25 12:02:21,298:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 12:02:21,306:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 12:12:17,641:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 12:12:17,649:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 12:12:17,654:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 12:12:17,657:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 12:12:17,666:INFO:discord.client: logging in using static token
+2017-04-25 12:12:19,085:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 12:12:19,095:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 12:12:24,910:INFO:discord.http: A rate limit bucket has been exhausted (bucket: PUT:231879555625910272:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2017-04-25 12:12:44,099:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 12:12:44,123:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 12:12:44,132:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 12:12:44,142:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 12:12:44,155:INFO:discord.client: logging in using static token
+2017-04-25 12:12:45,565:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 12:12:45,574:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 12:12:48,297:INFO:discord.http: A rate limit bucket has been exhausted (bucket: PUT:231879555625910272:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2017-04-25 12:17:16,087:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 12:17:16,095:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 12:17:16,099:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 12:17:16,106:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 12:17:16,114:INFO:discord.client: logging in using static token
+2017-04-25 12:17:17,661:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 12:17:17,672:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 12:17:20,741:INFO:discord.http: A rate limit bucket has been exhausted (bucket: PUT:231879555625910272:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2017-04-25 12:18:33,985:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 12:18:34,010:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 12:18:34,018:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 12:18:34,023:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 12:18:34,032:INFO:discord.client: logging in using static token
+2017-04-25 12:18:35,418:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 12:18:35,454:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 12:23:15,080:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 12:23:15,100:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 12:23:15,105:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 12:23:15,111:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 12:23:15,121:INFO:discord.client: logging in using static token
+2017-04-25 12:23:16,484:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 12:23:16,538:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:06:14,296:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:06:14,312:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:06:14,317:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:06:14,322:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:06:14,336:INFO:discord.client: logging in using static token
+2017-04-25 13:06:15,852:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:06:15,866:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:09:14,481:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:09:14,489:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:09:14,494:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:09:14,501:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:09:14,511:INFO:discord.client: logging in using static token
+2017-04-25 13:09:15,919:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:09:15,930:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:09:40,249:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:09:40,272:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:09:40,283:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:09:40,291:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:09:40,306:INFO:discord.client: logging in using static token
+2017-04-25 13:09:41,748:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:09:41,760:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:22:35,085:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:22:35,109:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:22:35,119:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:22:35,130:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:22:35,149:INFO:discord.client: logging in using static token
+2017-04-25 13:22:36,939:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:22:36,977:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:23:09,694:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:23:09,737:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:23:09,746:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:23:09,760:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:23:09,777:INFO:discord.client: logging in using static token
+2017-04-25 13:23:11,349:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:23:11,406:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:23:34,286:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:23:34,297:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:23:34,304:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:23:34,312:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:23:34,324:INFO:discord.client: logging in using static token
+2017-04-25 13:23:36,119:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:23:36,149:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:25:30,652:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:25:30,709:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:25:30,714:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:25:30,721:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:25:30,733:INFO:discord.client: logging in using static token
+2017-04-25 13:25:32,392:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:25:32,455:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:26:01,821:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:26:01,864:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:26:01,871:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:26:01,877:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:26:01,887:INFO:discord.client: logging in using static token
+2017-04-25 13:26:03,367:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:26:03,407:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:30:53,117:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:30:53,144:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:30:53,149:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:30:53,154:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:30:53,164:INFO:discord.client: logging in using static token
+2017-04-25 13:30:54,553:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:30:54,580:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:34:15,425:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:34:15,439:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:34:15,444:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:34:15,451:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:34:15,460:INFO:discord.client: logging in using static token
+2017-04-25 13:34:16,929:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:34:16,981:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:36:01,551:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:36:01,561:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:36:01,566:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:36:01,571:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:36:01,581:INFO:discord.client: logging in using static token
+2017-04-25 13:36:03,034:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:36:03,045:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:37:14,384:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:37:14,399:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:37:14,406:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:37:14,411:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:37:14,423:INFO:discord.client: logging in using static token
+2017-04-25 13:37:15,955:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:37:15,965:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:47:53,070:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:47:53,103:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:47:53,109:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:47:53,116:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:47:53,127:INFO:discord.client: logging in using static token
+2017-04-25 13:47:54,613:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:47:54,647:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:48:47,440:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:48:47,449:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:48:47,456:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:48:47,460:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:48:47,470:INFO:discord.client: logging in using static token
+2017-04-25 13:48:48,869:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:48:48,889:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:48:50,172:INFO:discord.http: A rate limit bucket has been exhausted (bucket: PUT:231879555625910272:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2017-04-25 13:49:49,824:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 13:49:49,883:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 13:49:49,889:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 13:49:49,896:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 13:49:49,910:INFO:discord.client: logging in using static token
+2017-04-25 13:49:51,386:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 13:49:51,431:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 13:49:52,668:INFO:discord.http: A rate limit bucket has been exhausted (bucket: PUT:231879555625910272:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2017-04-25 14:03:15,090:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 14:03:15,128:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 14:03:15,134:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 14:03:15,141:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 14:03:15,150:INFO:discord.client: logging in using static token
+2017-04-25 14:03:17,194:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 14:03:17,206:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 18:10:14,741:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 18:10:14,786:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 18:10:14,796:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 18:10:14,802:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 18:10:14,814:INFO:discord.client: logging in using static token
+2017-04-25 18:10:16,747:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 18:10:16,762:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 18:10:21,243:INFO:discord.http: A rate limit bucket has been exhausted (bucket: PUT:231879555625910272:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2017-04-25 18:15:26,640:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 18:15:26,687:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 18:15:26,697:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 18:15:26,706:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 18:15:26,721:INFO:discord.client: logging in using static token
+2017-04-25 18:15:28,665:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 18:15:28,680:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 18:15:32,782:INFO:discord.http: A rate limit bucket has been exhausted (bucket: PUT:231879555625910272:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2017-04-25 18:21:29,467:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 18:21:29,512:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 18:21:29,518:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 18:21:29,525:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 18:21:29,535:INFO:discord.client: logging in using static token
+2017-04-25 18:21:31,240:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 18:21:31,255:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 18:25:31,071:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 18:25:31,087:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 18:25:31,102:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 18:25:31,113:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 18:25:31,125:INFO:discord.client: logging in using static token
+2017-04-25 18:25:33,305:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 18:25:33,349:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 18:26:58,918:INFO:discord.http: A rate limit bucket has been exhausted (bucket: PUT:231879555625910272:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2017-04-25 18:40:07,595:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 18:40:07,651:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 18:40:07,661:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 18:40:07,670:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 18:40:07,684:INFO:discord.client: logging in using static token
+2017-04-25 18:40:09,570:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 18:40:09,605:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 18:40:28,847:INFO:discord.http: A rate limit bucket has been exhausted (bucket: PUT:231879555625910272:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2017-04-25 18:42:10,246:INFO:discord.client: on_ready has successfully been registered as an event
+2017-04-25 18:42:10,255:INFO:discord.client: on_message has successfully been registered as an event
+2017-04-25 18:42:10,263:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-04-25 18:42:10,268:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-04-25 18:42:10,279:INFO:discord.client: logging in using static token
+2017-04-25 18:42:12,234:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-04-25 18:42:12,246:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-04-25 18:44:36,328:INFO:discord.http: A rate limit bucket has been exhausted (bucket: PUT:231879555625910272:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
