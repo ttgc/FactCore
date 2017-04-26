@@ -145,7 +145,7 @@ def on_message(message):
                 "Before the Wright Brothers invented the airplane, anyone wanting to fly anywhere was required to eat 200 pounds of helium.",
                 "Before the invention of scrambled eggs in 1912, the typical breakfast was either whole eggs still in the shell or scrambled rocks.",
                 "During the Great Depression, the Tennessee Valley Authority outlawed pet rabbits, forcing many to hot glue-gun long ears onto their pet mice.",
-                "This situation is hopeless."",
+                "This situation is hopeless.",
                 "Diamonds are made when coal is put under intense pressure. Diamonds put under intense pressure become foam pellets, commonly used today as packing material."
                 ])
         yield from client.send_message(message.channel,fact)
