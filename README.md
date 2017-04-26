@@ -2,6 +2,10 @@
 FactCore Bot for Discord  
 Display randomfacts and other some commands  
 
+```diff
+-#JeSuisApertureLaboratory
+```
+
 ## List of Commands available
 ```
 /randomfact - Display a random fact
