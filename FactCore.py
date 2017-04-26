@@ -64,7 +64,8 @@ def on_ready():
 @asyncio.coroutine
 def on_message(message):
     global prefixes,statut
-    if message.server == None: return
+    if message.server is None: return
+    if type(message.author) is discord.User: return
     owner = admin = False
     #check permissions
     if message.author == message.server.owner:
@@ -84,9 +85,11 @@ def on_message(message):
         yield from client.send_file(message.channel,f,content="YAY !")
         f.close()
     if message.content.startswith(prefix+'invite'):
-        url = discord.utils.oauth_url(str(client.user.id),discord.Permissions().all())
+        botaskperm = discord.Permissions().all()
+        botaskperm.administrator = botaskperm.ban_members = botaskperm.kick_members = botaskperm.manage_channels = botaskperm.manage_server = botaskperm.manage_roles = botaskperm.manage_webhooks = botaskperm.manage_emojis = False
+        url = discord.utils.oauth_url(str(client.user.id),botaskperm)
         embd = discord.Embed(title="FactCore",description="Invite FactCore to your server !",colour=discord.Color(randint(0,int('ffffff',16))),url=url)
-        embd.set_footer(text="FactCore developed by Aperture Science",icon_url=client.user.avatar_url)
+        embd.set_footer(text="FactCore developed by Ttgc",icon_url=client.user.avatar_url)
         embd.set_image(url=client.user.avatar_url)
         embd.set_thumbnail(url="http://cdn.themis-media.com/media/global/images/library/deriv/1298/1298055.jpg")
         embd.set_author(name="Aperture Science",icon_url="http://eiden.yolasite.com/resources/logown6.png",url=url)
