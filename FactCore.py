@@ -1,6 +1,6 @@
 #!usr/bin/env python3.4
 #-*-coding:utf-8-*-
-#Fact Core For Citranium by ttgc and Indianajaune
+#Fact Core For Citranium
 
 import discord
 import asyncio
@@ -95,7 +95,7 @@ def on_message(message):
         embd.set_author(name="Aperture Science",icon_url="http://eiden.yolasite.com/resources/logown6.png",url=url)
         embd.add_field(name="FactCore is currently on :",value=str(len(prefixes))+" Server(s)",inline=False)
         yield from client.send_message(message.channel,embed=embd)
-    if message.content.startswith(prefix+'prefix'):
+    if message.content.startswith(prefix+'prefix') and admin:
         newpre = message.content.replace(prefix+'prefix ',"")
         prefixes[str(message.server.id)] = newpre
         yield from client.send_message(message.channel,"Prefix has been changed for : "+newpre)
@@ -149,6 +149,26 @@ def on_message(message):
                 "Diamonds are made when coal is put under intense pressure. Diamonds put under intense pressure become foam pellets, commonly used today as packing material."
                 ])
         yield from client.send_message(message.channel,fact)
+    if message.content.startswith(prefix+'glados'):
+        glados_id = "329759438816935936"
+        aperture_id = "317793704326987778"
+        aperture = client.get_server(aperture_id)
+        glados = aperture.get_member(glados_id)
+        embd = discord.Embed(title="GLadOS",description="Did you know it ?\nThere is a bot called GLadOS created by an aperture partner\ninvit him to your server !",colour=discord.Color(randint(0,int('ffffff',16))),url="https://discordapp.com/oauth2/authorize?client_id=329759438816935936&scope=bot&permissions=24576")
+        embd.set_footer(text="GLadOS developed by Andrew",icon_url=glados.avatar_url)
+        embd.set_image(url=glados.avatar_url)
+        embd.set_thumbnail(url="http://cdn.themis-media.com/media/global/images/library/deriv/1298/1298055.jpg")
+        embd.set_author(name="Aperture Science",icon_url="http://eiden.yolasite.com/resources/logown6.png",url="https://discordapp.com/oauth2/authorize?client_id=329759438816935936&scope=bot&permissions=24576")
+        yield from client.send_message(message.channel,embed=embd)
+    if message.content.startswith(prefix+'aperture'):
+        aperture_id = "317793704326987778"
+        aperture = client.get_server(aperture_id)
+        embd = discord.Embed(title="Aperture Science Bot Hub",description="Join Aperture Science server !",colour=discord.Color(randint(0,int('ffffff',16))),url="https://discord.gg/xmWacZP")
+        embd.set_footer(text="Aperture Science discord !\nFind all FactCore partner on it, get support and have fun !",icon_url=aperture.icon_url)
+        embd.set_image(url=aperture.icon_url)
+        embd.set_thumbnail(url="http://cdn.themis-media.com/media/global/images/library/deriv/1298/1298055.jpg")
+        embd.set_author(name="Aperture Science",icon_url="http://eiden.yolasite.com/resources/logown6.png",url="https://discord.gg/xmWacZP")
+        yield from client.send_message(message.channel,"https://discord.gg/xmWacZP",embed=embd)
     if client.user in message.mentions and message.author != client.user:
         yield from client.add_reaction(message,"\U0001F44D")
     #save data
