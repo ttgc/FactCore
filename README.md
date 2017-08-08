@@ -13,6 +13,8 @@ Display randomfacts and other some commands
 /roll value - Roll a dice with 'value' faces
 /prefix pre - Change command prefix
 /invite - Display invite link
+/glados - GLadOS ? is it really you ?
+/aperture - Welcome to aperture science discord !
 ```
 
 **Invite FactCore to your discord Server :** https://discordapp.com/oauth2/authorize?client_id=234639520337887232&scope=bot&permissions=2146958463
